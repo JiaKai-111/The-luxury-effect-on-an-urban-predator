@@ -1,2 +1,4 @@
 # The-luxury-effect-on-an-urban-predator
 The luxury effect on an urban predator: Housing prices and park proximity drive nest site selection of Crested Goshawk in a high-density Asian city
+
+Crested Goshavk nest data is nest site from 2022 to 2024 and its 500m radius buffer price, including: Year, City,	District,	Place,	Coordinates Y,	Coordinates X,	Habitat type,	Tree species,	Breeding success,	Number of fledglings,	Notes,	Unit price_median,	area (green area),	green_ratio,	tree_area (tree canopy area),	tree_ratio,	dtopark (distance to park)
